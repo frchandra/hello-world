@@ -1,2 +1,3 @@
 # hello-world
-hello world is a sandbox repository
+greetings peasant!
+how thing going?
